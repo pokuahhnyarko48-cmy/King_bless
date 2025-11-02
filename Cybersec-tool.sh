@@ -18,9 +18,9 @@ banner() {
     clear
     echo -e "${CYAN}"
     echo "╔══════════════════════════════════════════════╗"
-    echo "║           CYBERSEC TOOL INTERFACE           ║"
-    echo "║           For Educational Use Only          ║"
-    echo "║              Termux Version                ║"
+    echo "║           CYBERSEC TOOL INTERFACE!!!!!!!!!           ║"
+    echo "║           For Educational Use Only¡!!!!!!!!          ║"
+    echo "║ Author:Kingsley nyarko Delali(King_bless)            ║"
     echo "╚══════════════════════════════════════════════╝"
     echo -e "${NC}"
     echo
